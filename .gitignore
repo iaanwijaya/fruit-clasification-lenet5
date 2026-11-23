@@ -1,0 +1,7 @@
+# Virtual environment (folder library lokal, jangan di-push)
+.venv/
+venv/
+env/
+
+# Dataset lokal (gambar buah, jangan di-push)
+dataset/
